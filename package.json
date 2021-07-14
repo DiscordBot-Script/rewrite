@@ -1,6 +1,6 @@
 {
   "name": "discordbot-script",
-  "version": "1.0.0-rewrite",
+  "version": "1.0.0",
   "description": "bot-script",
   "main": "./package/main/index.js",
   "scripts": {
