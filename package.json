@@ -1,0 +1,27 @@
+{
+  "name": "discordbot-script",
+  "version": "1.0.0-rewrite",
+  "description": "bot-script",
+  "main": "./package/main/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscordBot-Script/rewrite.git"
+  },
+  "keywords": [
+    "discord",
+    "easy"
+  ],
+  "author": "Speshultee",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js#master",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
